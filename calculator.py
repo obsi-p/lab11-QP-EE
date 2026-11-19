@@ -1,4 +1,6 @@
-
+# https://github.com/obsi-p/lab11-QP-EE
+# Partner 1: Quinn Pasanen
+# Partner 2: Ehab El-Ahmad
 import math
 
 def square_root(a):
